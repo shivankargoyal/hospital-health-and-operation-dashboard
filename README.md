@@ -59,6 +59,9 @@ Monitoring length of patient stay by condition
 
 Data-driven planning and cost control
 
+![Screenshot 2025-05-15 190331](https://github.com/user-attachments/assets/3aed348c-6a4a-4694-9f0a-fe0a8262931a)
+
+
 👨‍💻 Author
 [Shivankar Goyal]
 B.E. Computer Science | Chandigarh University
