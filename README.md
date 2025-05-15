@@ -1,10 +1,14 @@
 # hospital-health-and-operation-dashboard
 🏥 Hospital Health & Operations Dashboard
 
+
 📌 Overview
-This project is a Power BI dashboard built to analyze and monitor hospital operations and health data across multiple dimensions such as billing, patient demographics, medical conditions, hospital units, and doctor performance.
+This project is a Power BI dashboard built to analyze and monitor hospital operations and health data across multiple dimensions, such as billing, patient demographics, medical conditions, hospital units, and doctor performance.
 
 It provides a comprehensive overview of key performance indicators (KPIs) that support data-driven decision-making for hospital administrators and healthcare stakeholders.
+
+I got the dataset from kaggle [ https://www.kaggle.com/datasets/prasad22/healthcare-dataset ]
+
 
 🎯 Key Features
 KPI Highlights:
@@ -28,6 +32,7 @@ Donut chart showing patient count by gender and condition for demographic unders
 Doctor Billing Performance:
 Bar chart ranking doctors based on the total billing amount.
 
+
 🛠️ Tools & Technologies
 Power BI – Data modeling, visualization, and dashboard creation
 
@@ -36,6 +41,7 @@ Excel/CSV – Data input and preprocessing
 DAX – Custom calculated measures and KPIs
 
 Data Cleaning & Filtering – Via Power Query and slicers
+
 
 🚀 How to Use
 Clone the repository:
@@ -47,6 +53,7 @@ Open the .pbix file using Power BI Desktop.
 Connect or refresh data sources if using local Excel/CSV files.
 
 Interact with slicers (Gender, Hospital, Admission Year, etc.) to dynamically filter results.
+
 
 📈 Use Cases
 Hospital performance tracking
@@ -66,6 +73,7 @@ Data-driven planning and cost control
 [Shivankar Goyal]
 B.E. Computer Science | Chandigarh University
 Health Tech & Data Analytics Enthusiast
+
 
 📜 License
 This project is open-source and available under the MIT License.
